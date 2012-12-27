@@ -12,5 +12,10 @@ namespace Pilot.Controllers
         {
             return View();
         }
+
+        public ActionResult cemBasgan() {
+
+            return View();
+        }
     }
 }
